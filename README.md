@@ -20,8 +20,9 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 24.04 LTS
       NGINX                                         (proxying multitenant sites in production)
 
 
-> ## `Note: ubuntu 22.04 default python version is python3.12
-> ubuntu 22.04 default mariadb version is 10.11`
+> ## Note:
+> ubuntu 22.04 default python version is python3.12
+> ubuntu 22.04 default mariadb version is 10.11
 
 ### STEP 1 Install git
     sudo apt-get install git
