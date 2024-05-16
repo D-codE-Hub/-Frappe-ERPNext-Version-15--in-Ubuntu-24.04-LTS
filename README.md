@@ -46,9 +46,6 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 24.04 LTS
     sudo apt-get install software-properties-common
     sudo apt install mariadb-server
     sudo systemctl status mariadb
-### Note 
-Warning: MariaDB version ['10.11', '7'] is more than 10.8 which is not yet tested with Frappe Framework.
-
     sudo mysql_secure_installation
     
     
@@ -165,6 +162,9 @@ Now press (Ctrl-X) to exit
     bench start
     
 ### STEP 14 create a site in frappe bench 
+
+>### Note 
+>Warning: MariaDB version ['10.11', '7'] is more than 10.8 which is not yet tested with Frappe Framework.
     
     bench new-site dcode.com
     
