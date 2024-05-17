@@ -4,7 +4,7 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 24.04 LTS
 
 #### Refer this for default python 3.11 setup
 
-- [D-codeE Video Tutorial](https://youtu.be/TReR0I0O1Xo)
+- [D-codeE Video Tutorial](https://youtu.be/zU41gq7nji4)
 
 ### Pre-requisites 
 
